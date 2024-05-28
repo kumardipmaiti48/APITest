@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.576" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Create user using excel" name="multiple data1" time="0.227">
+<system-out><![CDATA[
+Given User is on Reqres URL.................................................passed
+When User give name and job from excel......................................passed
+And User hit the post button1...............................................passed
+Then User should be created1................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
